@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BachApp</string>
+    <string name="userReq">Email / Phone</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="forgot">Forgot?</string>
+    <string name="create">Create</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="city">City</string>
+    <string-array name="cities">
+        <item>Hermosillo</item>
+        <item>Cd. Obregón</item>
+    </string-array>
+    <string name="title_activity_main">Bienvenido</string>
+
+    <string name="menu_auto">Modo Auto</string>
+    <string name="menu_bache">Marcar bache</string>
+    <string name="menu_confi">Configuracion</string>
+    <string name="menu_usuario">Usuario</string>
+    <string name="menu_logout">Cerrar Sesion</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1071551757531",
+    "firebase_url": "https://bachapp-1781f.firebaseio.com",
+    "project_id": "bachapp-1781f",
+    "storage_bucket": "bachapp-1781f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071551757531:android:c3fa49dc4185a500",
+        "android_client_info": {
+          "package_name": "itson.mx.bachapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071551757531-h13rmte94a02a979okdllfqjonupn7vc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "itson.mx.bachapp",
+            "certificate_hash": "e2d1289a1309ddb13a6b84bccf1e858da51847a4"
+          }
+        },
+        {
+          "client_id": "1071551757531-nnvail32iai5eine2bacvbpgm7pa1755.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbOp5qZLqKtdwftIwMFKUAmyjB6xEffAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071551757531-nnvail32iai5eine2bacvbpgm7pa1755.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
